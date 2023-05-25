@@ -128,5 +128,5 @@ Under the banner, we will add the quote block:
 And… that’s it for the moment - the result should not be shiny, don’t worry, CSS is coming…
 
 ## Contributors:
-Heather Hayes <https://github.com/hayes28>
+Nikki Alderman https://github.com/NikkiMerena
 # holbertonschool-web-development
